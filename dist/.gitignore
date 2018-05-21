@@ -1,0 +1,2 @@
+# We don't need to ignore anything, we just want to include the /dist directory
+# in the repo.
