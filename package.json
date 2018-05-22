@@ -1,0 +1,25 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "This is a practice application so that we can make a website together and have lots of merge conflicts.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bootcamp-s18/portal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bootcamp-s18/portal/issues"
+  },
+  "homepage": "https://github.com/bootcamp-s18/portal#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
