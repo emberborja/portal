@@ -26,3 +26,7 @@ Neat bright "pop" color should be #e85a71.
 
 Main content sections should have a background of #d8e9ef.
 
+
+Personal pages should have a link at the upper right with the text "Portal". This link should go to the main index.html page.
+
+

@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Bevan|Play');
+
+.card {
+	background-color: #d8e9ef;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Bevan', serif;
+}
+
+body {
+	font-family: 'Play', sans-serif;
+}
