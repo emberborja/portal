@@ -1,21 +1,13 @@
-/*body {
-	background: #ffffff;
-	font-family: 'Play', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-	font-family: 'Bevan', cursive;
-	color: #4ea1d3;
-}
-
-.content-block {
-	background: #d8e9ef;
-	margin: 20px;
-	padding: 10px 20px 20px 20px;
-}
-
-*/
+@import url('https://fonts.googleapis.com/css?family=Bevan|Play');
 
 .card {
 	background-color: #d8e9ef;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Bevan', serif;
+}
+
+body {
+	font-family: 'Play', sans-serif;
 }
