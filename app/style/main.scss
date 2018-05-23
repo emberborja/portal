@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Bevan|Play');
+
+$card-bg: #d8e9ef;
+$headings-font-family: 'Bevan', serif;
+$font-family-base: 'Play', sans-serif;
+
+// Bootstrap and its default variables
+@import "node_modules/bootstrap/scss/bootstrap";

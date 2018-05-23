@@ -21,5 +21,10 @@
   "homepage": "https://github.com/bootcamp-s18/portal#readme",
   "dependencies": {
     "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.1.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
   }
 }
